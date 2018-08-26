@@ -20,7 +20,13 @@
    数据级别操作权限控制：根据全局自定义指令来判断页面级
    
 ## 部分截图
-   
+  ![Image text](https://github.com/lmxxlm/youyu.admin/blob/master/vue-backend/static/img/1%20(1).jpg) 
+  ![Image text](https://github.com/lmxxlm/youyu.admin/blob/master/vue-backend/static/img/1%20(1).png) 
+  ![Image text](https://github.com/lmxxlm/youyu.admin/blob/master/vue-backend/static/img/1%20(2).jpg) 
+  ![Image text](https://github.com/lmxxlm/youyu.admin/blob/master/vue-backend/static/img/1%20(2).png) 
+  ![Image text](https://github.com/lmxxlm/youyu.admin/blob/master/vue-backend/static/img/1%20(3).jpg) 
+  ![Image text](https://github.com/lmxxlm/youyu.admin/blob/master/vue-backend/static/img/1%20(3).png) 
+  ![Image text](https://github.com/lmxxlm/youyu.admin/blob/master/vue-backend/static/img/1%20(4).jpg) 
    
 # 管理后台接口文档
 
